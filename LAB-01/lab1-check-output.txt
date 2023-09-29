@@ -1,0 +1,8 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-09-15 07:52:27.619968
+INFO:root:lab1a.py: test successful.
+INFO:root:lab1a.py f6906f4b10bb1d4272e25e082f90d404
+INFO:root:done.
+INFO:root:lab1b.py: test successful.
+INFO:root:lab1b.py 770eff4cb0d0901aa1a944e606db8978
+INFO:root:done.
