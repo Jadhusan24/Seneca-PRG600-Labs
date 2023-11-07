@@ -1,0 +1,20 @@
+INFO:root:logging test
+INFO:root:Test Run: 2023-10-06 23:19:40.428531
+INFO:root:lab5a.py: test successful.
+INFO:root:lab5a.py 4c064ba47955ef6feb90e402fa9a0a29
+INFO:root:done.
+INFO:root:lab5b.py: test successful.
+INFO:root:lab5b.py 9286782a8fc6c4f267af3c7fb40ee898
+INFO:root:done.
+INFO:root:lab5c.py: test successful.
+INFO:root:lab5c.py ee3560bb241fc7c3036e5624da15e3cd
+INFO:root:done.
+INFO:root:lab5d.py: test successful.
+INFO:root:lab5d.py e325aab110658d158e932d69ca8e2033
+INFO:root:done.
+INFO:root:lab5e.py: test successful.
+INFO:root:lab5e.py b7e0be1c8407da8fc4397565ff2ac83d
+INFO:root:done.
+INFO:root:challenge5.py: test successful.
+INFO:root:challenge5.py f74cfa8d402de17329252c9fb2776875
+INFO:root:done.
